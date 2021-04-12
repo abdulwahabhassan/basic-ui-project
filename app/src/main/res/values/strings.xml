@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Profile</string>
+    <string name="header_text">Good morning!</string>
+    <string name="search_placeholder">Search</string>
+    <string name="profile_name">Ella</string>
+    <string name="location_text">ONTARIO, CANADA</string>
+    <string name="follow_text">FOLLOW ELLA</string>
+    <string name="message_text">MESSAGE</string>
+    <string name="see_more_text">SEE MORE</string>
+
 </resources>
