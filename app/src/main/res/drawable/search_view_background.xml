@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--    Defined a shape for the searchView background so that I can give a radius of 6dp to its corners-->
 <shape xmlns:android="http://schemas.android.com/apk/res/android"
     android:shape = "rectangle">
     <solid />

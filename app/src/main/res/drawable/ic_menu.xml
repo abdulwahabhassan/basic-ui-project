@@ -3,6 +3,8 @@
     android:height="15dp"
     android:viewportWidth="15"
     android:viewportHeight="15">
+
+  <!--  Referenced style attribute colorPrimaryVariant in themes since I want each themes to display different coloured versions of the image -->
   <path
       android:pathData="M5.0977,7.0313H1.9336C0.8674,7.0313 0,6.1639 0,5.0977V1.9336C0,0.8674 0.8674,0 1.9336,0H5.0977C6.1639,0 7.0313,0.8674 7.0313,1.9336V5.0977C7.0313,6.1639 6.1639,7.0313 5.0977,7.0313ZM1.9336,0.9375C1.3843,0.9375 0.9375,1.3843 0.9375,1.9336V5.0977C0.9375,5.6469 1.3843,6.0938 1.9336,6.0938H5.0977C5.6469,6.0938 6.0938,5.6469 6.0938,5.0977V1.9336C6.0938,1.3843 5.6469,0.9375 5.0977,0.9375H1.9336Z"
       android:fillColor="?attr/colorPrimaryVariant"/>
